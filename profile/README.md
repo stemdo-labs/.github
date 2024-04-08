@@ -14,21 +14,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stemdo&label=Profile%20views&color=0e75b6&style=flat" alt="stemdo" /> </p>
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
+- 🙋‍♀️ Una breve introducción: ¿De qué se trata nuestra organización?
 
-- 🌈 Contribution guidelines - how can the community get involved?
+- 🌈 Guía de contribución: ¿Cómo puede participar la comunidad?
 
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+- 👩‍💻 Recursos útiles: ¿Dónde puede la comunidad encontrar sus documentos? ¿Hay algo más que la comunidad deba saber?
 
-- 🍿 Fun facts - what does your team eat for breakfast?
+- 🍿 Datos curiosos: ¿Qué desayuna tu equipo?
 
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 🧙 Recuerda, puedes hacer cosas poderosas con el poder de [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- 🔭 We are currently working like Talent as a Service. Recruiting, training and mentoring young talents, helping them to develop professionally, in a more human way, promoting collaboration between stemdoers Community
+- 🔭 Actualmente trabajamos acercando oportunidades laborales tecnológicas conguiendo crear Talento como Servicio desde zonas perimetrales de España generando igualdad de oportunidades en regiones mas desfavorecidas, democratizando la tecnología. Reclutar, formar y mentorizar jóvenes talentos, ayudándoles a desarrollarse profesionalmente, de una forma más humana, fomentando la colaboración entre la comunidad Stemdoers.
 
-- 💬 Ask we about **DevSecOps, ALM, Javascript, Rust, Python, Appian, and more..**
+- 💬 Preguntános sobre **DevSecOps, ALM, Javascript, Rust, Python, Appian, Identity Managenment and more..**
 
-- 📫 How to reach me io our TaaS Platform **https://stemdo.io**
+- 📫 Nos podéis encontrar y comunicaros con nosotros en nuestra plataforma **https://stemdo.io** o a traves de esta comunidad.
 
 <h3 align="left">Connect with me:<a href="https://stemdo.io" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/63db86c2a21f792461d4ffa0/63dc08f36796f76136eea604_Nav_logo.webp" alt="android" width="40" height="40"/> </a></h3>
 <p align="left">
