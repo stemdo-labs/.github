@@ -24,7 +24,7 @@
 
 - 🧙 Recuerda, puedes hacer cosas poderosas con el poder de [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- 🔭 Actualmente trabajamos acercando oportunidades laborales tecnológicas conguiendo crear Talento como Servicio desde zonas perimetrales de España generando igualdad de oportunidades en regiones mas desfavorecidas, democratizando la tecnología. Reclutar, formar y mentorizar jóvenes talentos, ayudándoles a desarrollarse profesionalmente, de una forma más humana, fomentando la colaboración entre la comunidad Stemdoers.
+- 🔭 Actualmente trabajamos acercando oportunidades laborales tecnológicas a zonas perimetrales de España generando igualdad de oportunidades en regiones mas desfavorecidas, democratizando la tecnología. Reclutar, formar y mentorizar jóvenes talentos, ayudándoles a desarrollarse profesionalmente, de una forma más humana, fomentando la colaboración entre la comunidad Stemdoers. De esta forma creamos Talento como Servicio para nuestra plataforma **https://stemdo.io**.
 
 - 💬 Preguntános sobre **DevSecOps, ALM, Javascript, Rust, Python, Appian, Identity Managenment and more..**
 
