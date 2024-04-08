@@ -10,7 +10,7 @@
 -->
 
 <h1 align="center">Hola 👋, Somos Stemdo Labs</h1>
-<h3 align="center"> Una comunidad tecnológica donde fomentamos la colaboración open source desde España</h3>
+<h3 align="center"> Una comunidad tecnológica donde fomentamos la colaboración Open Source & Open Hardware desde España</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stemdo&label=Profile%20views&color=0e75b6&style=flat" alt="stemdo" /> </p>
 
