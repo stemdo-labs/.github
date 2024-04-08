@@ -1,2 +1,6 @@
 # .github
-✨special ✨ repository that you can use to add README.md to your public organization profile, visible to anyone. Make sure it’s public and and initialize it with a README in the profile directory to get started.
+Repositorio ✨especial✨ donde centralizaremos el profile público, además de compartir en toda la organización las buenas practicas para llegar a ser una comunidad estable e innovadora.
+Evangelizando con las buenas prácticas y respeto a la diversidad y multidisciplinadirad. 
+
+[Documentación sobre la creación de comunidades](https://docs.github.com/es/communities)
+[Documentación](https://docs.github.com/es/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
